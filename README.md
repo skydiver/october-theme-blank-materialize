@@ -1,5 +1,5 @@
 # Blank-Materialize
-A blank theme for [OctoberCMS](https://octobercms.com/) with [Materialize](http://materializecss.com/) framework, & [jQuery](https://jquery.com/).
+A blank theme for [OctoberCMS](https://octobercms.com/) with [Materialize](http://materializecss.com/) framework & [jQuery](https://jquery.com/).
 
 
 ## Installation
