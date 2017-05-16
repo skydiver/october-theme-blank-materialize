@@ -19,3 +19,6 @@
     - Updated to jQuery 2.2.4
 1.0.8:
     - Updated to Materialize v0.98.0
+1.1.0:
+    - Updated to Materialize v0.98.2
+    - Updated to jQuery 3.2.1
